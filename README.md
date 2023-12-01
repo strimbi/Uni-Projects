@@ -40,6 +40,11 @@
           👩‍🚀:  Functional and Logic Programming 
         </a>
       </li>
+      <li>
+        <a href="https://github.com/strimbi/Computing-systems-Architecture">
+          💚: Computing Systems Architecture
+        </a>
+      </li>
     </ul>
   </li>
 </ul>
