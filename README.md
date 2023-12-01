@@ -1,5 +1,4 @@
 # Uni-Projects
-# UBB
 <ul>
   <li>:open_file_folder: Semester 1
     <ul>
