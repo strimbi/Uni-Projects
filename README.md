@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a href="https://github.com/strimbi/Algorithms-and-Programming"> 
-          🐍:  Algorithms and Programming
+          🍋:  Algorithms and Programming
         </a>
       </li>
     </ul>
@@ -28,7 +28,7 @@
     <ul>
       <li>
         <a href="https://github.com/strimbi/Methods-of-Advanced-Programming"> 
-          🐯:  Advanced Methods of Programming 
+          🦥:  Advanced Methods of Programming 
         </a>
       </li>
       <li>
@@ -38,7 +38,7 @@
       </li>
       <li>
         <a href="https://github.com/strimbi/Logical-and-Functional-Programming"> 
-          🫀:  Functional and Logic Programming 
+          👩‍🚀:  Functional and Logic Programming 
         </a>
       </li>
     </ul>
