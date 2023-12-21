@@ -1,6 +1,6 @@
 # Uni-Projects
 <ul>
-  <li>:open_file_folder: Semester 1
+  <li> Semester 1
     <ul>
       <li>
         <a href="https://github.com/strimbi/Algorithms-and-Programming"> 
@@ -9,7 +9,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: Semester 2
+  <li> Semester 2
     <ul>
       <li>
         <a href="https://github.com/strimbi/Data-Structures"> 
@@ -23,7 +23,7 @@
       </li>
     </ul>
   </li>
-  <li>:open_file_folder: Semester 3
+  <li> Semester 3
     <ul>
       <li>
         <a href="https://github.com/strimbi/Methods-of-Advanced-Programming"> 
